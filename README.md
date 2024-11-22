@@ -140,10 +140,14 @@ Use the following tutorial for step-by-step guidance on setting up MySQL with Ja
  * Open a new terminal window, navigate to the project directory, and run the client to connect to the server.
    ![2](https://github.com/user-attachments/assets/e2539c7d-d8ec-42f3-9f9d-06a13c23fa0a)
    
-![2](https://github.com/user-attachments/assets/a0feff0c-e337-425a-932c-fe66413c6560)
-![1](https://github.com/user-attachments/assets/287d0ca9-bc7e-42d2-b41c-251fe5b251e5)
+
 
 
 ![Main ](https://github.com/user-attachments/assets/c27fdc14-0283-49f5-bc9c-62a031d91ae8)
+<img width="1107" alt="Screenshot 2024-11-22 at 12 02 10 PM" src="https://github.com/user-attachments/assets/86e8b35e-d89a-4abc-aadf-8eb1ccf19085">
+<img width="1138" alt="Screenshot 2024-11-22 at 12 02 38 PM" src="https://github.com/user-attachments/assets/294bd696-2064-49a1-9dd6-9bd12a3eeedd">
+<img width="1140" alt="Screenshot 2024-11-22 at 12 02 54 PM" src="https://github.com/user-attachments/assets/a3cad3bd-571b-471c-a543-9c616c6656ab">
+<img width="992" alt="Screenshot 2024-11-22 at 12 03 04 PM" src="https://github.com/user-attachments/assets/308b8e4c-ad44-4230-b340-fa9ef0d354f4">
+<img width="442" alt="Screenshot 2024-11-22 at 12 03 16 PM" src="https://github.com/user-attachments/assets/f5e2a29d-e03d-4426-9c5f-efa72f16252c">
 
 
